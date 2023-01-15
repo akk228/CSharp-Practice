@@ -1,0 +1,8 @@
+C:\Users\andre\OneDrive\Documents\GitHub\CSharp-Practice\RegExPractice\bin\Debug\RegExPractice.exe.config
+C:\Users\andre\OneDrive\Documents\GitHub\CSharp-Practice\RegExPractice\bin\Debug\RegExPractice.exe
+C:\Users\andre\OneDrive\Documents\GitHub\CSharp-Practice\RegExPractice\bin\Debug\RegExPractice.pdb
+C:\Users\andre\OneDrive\Documents\GitHub\CSharp-Practice\RegExPractice\obj\Debug\RegExPractice.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documents\GitHub\CSharp-Practice\RegExPractice\obj\Debug\RegExPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\OneDrive\Documents\GitHub\CSharp-Practice\RegExPractice\obj\Debug\RegExPractice.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documents\GitHub\CSharp-Practice\RegExPractice\obj\Debug\RegExPractice.exe
+C:\Users\andre\OneDrive\Documents\GitHub\CSharp-Practice\RegExPractice\obj\Debug\RegExPractice.pdb
